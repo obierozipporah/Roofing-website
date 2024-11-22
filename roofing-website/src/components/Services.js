@@ -6,7 +6,7 @@ const Services = () => {
     { title: "Manufacturing roofing materials", image: "../img/roof-replacement.jpg" },
     { title: "Roof Installation", image: "../img/metal-roofing.jpg" },
     { title: "Roof Replacement", image: "../img/roof-installation.jpg" },
-    { title: "Delivery services", image: "path-to-img.jpg" }, 
+    { title: "Delivery services", image: "../img/delivery.jpg" }, 
     
     // Add more services
   ];
